@@ -3,6 +3,8 @@
 <!--
 **Luciano-Scalfone/Luciano-Scalfone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![HTML](https://user-images.githubusercontent.com/67380973/101265448-6acbf080-3725-11eb-8b65-9848202c8e55.jpg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
