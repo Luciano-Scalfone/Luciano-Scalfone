@@ -21,4 +21,4 @@
 
 ![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=tokyonight)
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Luciano-Scalfone&repo=Luciano-Scalfone&countColorcountColor&countColor=%237B1E7B"/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Luciano-Scalfone&repo=Luciano-Scalfone&countColorcountColor&countColor=%237B1E7B"/>
