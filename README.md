@@ -6,11 +6,7 @@
 
 ## I'm a Fron-End developer and Full-Stack Student  
 
-
-
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -24,3 +20,5 @@
 ---
 
 ![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=tokyonight)
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Luciano-Scalfone&repo=Luciano-Scalfone&countColorcountColor&countColor=%237B1E7B"/>
