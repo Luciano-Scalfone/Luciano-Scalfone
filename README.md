@@ -1,8 +1,8 @@
-### Hi there 👋
+![Captura de tela de 2020-12-06 09-44-16](https://user-images.githubusercontent.com/67380973/101280525-6ac10480-37a8-11eb-8823-922e9c310433.png)
 
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 ## I'm a Fron-End developer and Full-Stack Student  
 
