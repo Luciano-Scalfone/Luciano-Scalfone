@@ -21,7 +21,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact)](https://github.com/Luciano-Scalfone/github-readme-stats)
-![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=tokyonight)
+<div align="center">
+  ![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact)](https://github.com/Luciano-Scalfone/github-readme-stats)
+</div>
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Luciano-Scalfone&repo=Luciano-Scalfone&countColorcountColor&countColor=%237B1E7B"/>
