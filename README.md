@@ -6,7 +6,7 @@
 
 <h1>
   I'm a Fron-End developer and Full-Stack Student
-  <hr>
+  <br>
   <a href="https://www.linkedin.com/in/luciano-scalfone/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="83"/></a>
   <a href="https://www.instagram.com/luciano.scalfone"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="93"/></a>
 </h1>
