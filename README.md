@@ -22,9 +22,7 @@
 
 ---
 
-<div display:"flex", justify-content:"space-between">
-  <image src="https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=radical" />
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact&theme=radical" />
-</div>
+[![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Luciano-Scalfone&repo=Luciano-Scalfone&countColorcountColor&countColor=%237B1E7B"/>
