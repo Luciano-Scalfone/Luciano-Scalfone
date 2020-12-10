@@ -22,7 +22,7 @@
 
 ---
 
-<div stle="display: flex, justify-content: space-between">
+<div style="display: flex, justify-content: space-between">
   <image src="https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=radical" />
   <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact&theme=radical" />
 </div>
