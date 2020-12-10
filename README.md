@@ -19,10 +19,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 [![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Luciano-Scalfone&repo=Luciano-Scalfone&countColorcountColor&countColor=%237B1E7B"/>
