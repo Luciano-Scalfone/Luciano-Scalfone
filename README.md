@@ -30,6 +30,10 @@
 ## GitHub Stats
 
 [![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=Luciano-Scalfone&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Scalfone&layout=compact&theme=radical)](https://github.com/Luciano-Scalfone/Luciano-Scalfone
+
+<a href="https://github.com/jelsonjay/jelsonjay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelsonjay&hide=ruby,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Luciano-Scalfone&repo=Luciano-Scalfone&countColorcountColor&countColor=%237B1E7B"/>
