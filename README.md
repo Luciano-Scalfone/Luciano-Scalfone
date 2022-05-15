@@ -8,7 +8,7 @@
 ## I'm a Front-End developer at Thoughtworks.
 <a href="https://www.linkedin.com/in/luciano-scalfone/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="83"/></a>
 <a href="https://www.instagram.com/luciano.scalfone"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="93"/></a>
-<a href="https://www.thoughtworks.com/"><img src="https://img.shields.io/badge/%2FThoughtworks-%23163C4D?style=flat-square&logo=thoughtworks&logoColor=ffffff)" width="95"/></a>
+<a href="https://www.thoughtworks.com/"><img src="https://img.shields.io/badge/%2FThoughtworks-%23163C4D?style=for-the-badge&logo=thoughtworks&logoColor=ffffff)" width="108"/></a>
 ---
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
