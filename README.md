@@ -24,6 +24,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 
