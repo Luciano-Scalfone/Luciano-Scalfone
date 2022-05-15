@@ -5,10 +5,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-## I'm a Front-End developer and Full-Stack Student
+## I'm a Front-End developer at Thoughtworks.
 <a href="https://www.linkedin.com/in/luciano-scalfone/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="83"/></a>
 <a href="https://www.instagram.com/luciano.scalfone"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="93"/></a>
-
+<a href=""><img src="https://img.shields.io/badge/-%2Thoughtworks-%23163C4D?style=for-the-badge&logo=thoughtworks&logoColor=ffffff)" width="83"/></a>
 ---
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -26,7 +26,6 @@
 ![NodeJs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![thoughtworks](https://img.shields.io/badge/-Thoughtworks-%23163C4D?style=flat-square&logo=thoughtworks&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
