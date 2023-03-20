@@ -5,10 +5,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-## I'm a Front-End developer at Thoughtworks.
+## I'm a Front-End developer.
 <a href="https://www.linkedin.com/in/luciano-scalfone/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="83"/></a>
 <a href="https://www.instagram.com/luciano.scalfone"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="93"/></a>
-<a href="https://www.thoughtworks.com/"><img src="https://img.shields.io/badge/%2FThoughtworks-%23163C4D?style=for-the-badge&logo=thoughtworks&logoColor=ffffff)" width="108"/></a>
+
 ---
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -22,7 +22,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=ffffff)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=ffffff)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff)
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff) -->
 ![NodeJs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
